@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Zombie apocalypse!",
+      "shortDescription": "A zombie apocalypse has broken loose!",
+      "category": "world"
+    },
+    {
+      "id": 2,
+      "title": "BitCoin has dropped!",
+      "shortDescription": "BitCoin took a steep dip this morning going from $8000 to $100.",
+      "category": "financial"
+    },
+    {
+      "id": 3,
+      "title": "PSS has announced it debut",
+      "shortDescription": "Sony has annonced the new PSS!",
+      "category": "technology"
+    }
+  ]
+}
