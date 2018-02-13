@@ -2,11 +2,11 @@ import React from 'react';
 import ListView from '../ListView/ListView';
 
 const Container = () => {
-      return (
+    return (
         <div className="Container">
-          <ListView />
+            <ListView />
         </div>
-      );
+    );
 };
 
 export default Container;
